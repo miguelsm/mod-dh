@@ -31,3 +31,5 @@ map key   47    V
 map key   48    B
 map key   49    K
 map key   50    M
+map key   58    CTRL_LEFT
+map key   100   ALT_LEFT
